@@ -4,7 +4,11 @@ Day 9: June 19, 2024
 
 Today's Progress:
 
-    1.
+    1. Continue to explore best way to read nested SI AWS .txt files. 
+
+    2. Begin to read about WebXR to create 3D environments.  
+    
+    3. Read Think Python
 
 
 
