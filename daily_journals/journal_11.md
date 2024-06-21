@@ -15,7 +15,9 @@ Today's Progress:
         - django.utils.datastructures.MultiValueDictKeyError: 'doc-file'
 
     2. Read Think Python
-
+        Named arguments or Keyword arguments
+        Example: The function polygon below has 2 named/keyword arguments.
+        polygon(n=7, length=30)
 
 Challenges:
 
