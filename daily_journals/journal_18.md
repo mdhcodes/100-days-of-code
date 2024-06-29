@@ -8,8 +8,6 @@ Today's Progress:
         How to exclude fields in database query - Only return notes, images, and documents from lesson_resources?
     2. Start Think Python Chapter 5 exercises
 
-
-
 Challenges:
 
     Learning With Nature
