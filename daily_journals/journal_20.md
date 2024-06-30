@@ -1,21 +1,33 @@
 Start Date: June 11, 2024
 End Date: September 18, 2024
-Day 20: 
+Day 20: June 30, 2024
 
 Today's Progress:
 
-    1.
+    1. Learning With Nature:
+        Solved queries to access both Lesson data and Resources data for a specified lesson and pass the objects using the chain() function to JsonResponse to display the complete edited lesson dynamically with JavaScript.   
 
-
+    2. Think Python
+        Finish Chapter 5 exercises
+        Read Chapter 6 - Return Values
 
 Challenges:
 
-    
+    Overcame a challenge: I was able to join objects via chain() to pass one list to JsonResponse().
 
 Link(s) to Work:
 
-    [Virtual Museum Visit]https://github.com/mdhcodes/virtual-museum-visit
+    [Virtual Museum Visit]https://github.com/mdhcodes/virtual-museum-visit  
+    [Learning With Nature]https://github.com/mdhcodes/learning-with-nature  
 
 Notes:
 
-    [Any additional notes]
+    Learning With Nature: Future Development 
+
+    When a user requests to save a lesson, check the database to make sure that lesson hasn't already been saved by the user. Display message if this condition is true.
+
+    When a user clicks on the title (which is a link) of a saved lesson, display the complete lesson stored in the database with all edits.
+
+    When a user clicks to edit a saved lesson that has already been updated, display the form with the current data for the form fields. 
+
+    At present, if a user makes a request and proceeds to make another request without clicking the 'logo' or 'Find Parks by State', the visible divs do not clear and new content is added below. How to clear a page when a new request is made without deleting or removing divs or refreshing the page. The user should not have to go back to the beginning to clear the page for a fresh start. 
