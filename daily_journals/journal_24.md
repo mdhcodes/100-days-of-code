@@ -4,14 +4,12 @@ Day 24: July 4, 2024
 
 Today's Progress:
 
-    1. Update Lesson model and return values to include hasResources Boolean field. This field will
-       be true if the user has saved Resources for this lesson.
+    1. Learning With Nature:   
+        Update Lesson model and return values to include hasResources Boolean field. This field will be true if the user has saved Resources for this lesson.
     
-    2. When a lesson is edited (hasResources), the 'Edit' button is removed and the 'Update'        
-       button is put in its place. In this way, an edited lesson will have one object in Resources that can be updated multiple times without creating new entries for the same lesson.
+        When a lesson is edited (hasResources), the 'Edit' button is removed and the 'Update'  button is put in its place. In this way, an edited lesson will have one object in Resources that can be updated multiple times without creating new entries for the same lesson.
 
-    3. Comment get_edit_form function in views.py and edit_lesson function in learning.js. The
-       program is building the form dynamically and not accessing forms.py. 
+        Comment get_edit_form function in views.py and edit_lesson function in learning.js. The program is building the form dynamically and not accessing forms.py. 
 
 Challenges:  
 
