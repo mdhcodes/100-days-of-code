@@ -9,6 +9,8 @@ Today's Progress:
         
         TODO: Create update within edit function or create new update function. Hide complete-lesson div as needed.
 
+        TODO: Saved titles link to complete lessons. Create links for the complete lesson URLs.      
+
 Challenges:
 
     Learning With Nature: 
@@ -31,3 +33,5 @@ Notes:
     Clicking on the username should load the user's profile information allowing user to change their password.
 
     Option for user to upload multiple images and documents.
+
+    Nature Walk Website: Run program in the terminal via ... > node index.js
