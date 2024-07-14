@@ -1,10 +1,14 @@
 Start Date: June 11, 2024
 End Date: September 18, 2024
-Day 30: July 10, 2024
+Day 33: July 13, 2024
 
 Today's Progress:
 
-    1. Read Think Python - Chapter 8: Strings and Regular Expressions
+    1. Read Think Python - Start reading Chapter 9: Lists 
+    
+    2. Learning With Nature:
+        Continue to add functionality to the 'Hello, username' link. Add profile() function to views.py. However, passing JsonResponse to JavaScript produces an error. 
+        (Clicking on the username will load the user's profile information allowing the user to change their password if desired.)
 
 Challenges:
 
@@ -30,8 +34,6 @@ Notes:
     At present, if a user makes a request and proceeds to make another request without clicking the 'logo' or 'Find Parks by State', the visible divs do not clear and new content is added below. How to clear a page when a new request is made without deleting or removing divs or refreshing the page. The user should not have to go back to the beginning to clear the page for a fresh start. 
 
     Remove lessons app that is not being used in the program.
-
-    Clicking on the username should load the user's profile information allowing user to change their password.
 
     Option for user to upload multiple images and documents.
 

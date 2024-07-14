@@ -1,10 +1,10 @@
 Start Date: June 11, 2024
 End Date: September 18, 2024
-Day 26: Junly 6, 2024
+Day 26: July 6, 2024
 
 Today's Progress:
 
-    1. Read Think Python Chapter 6: Iteration and Search
+    1. Read Think Python Chapter 7: Iteration and Search
     
     2. Learning With Nature:
         

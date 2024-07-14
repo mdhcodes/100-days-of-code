@@ -1,6 +1,6 @@
 Start Date: June 11, 2024
 End Date: September 18, 2024
-Day 25: Junly 5, 2024
+Day 25: July 5, 2024
 
 Today's Progress:
 
