@@ -1,11 +1,11 @@
 Start Date: June 11, 2024
-End Date: September 18, 2024
-Day 38: July 18, 2024
+End Date: 
+Day 38: July 30, 2024
 
 Today's Progress:
 
     1. Learning With Nature:
-        
+        Continue to refactor the change_username() and change_password() functions. The 'JSON Decode Error' persists. 
         
 Challenges:
 
