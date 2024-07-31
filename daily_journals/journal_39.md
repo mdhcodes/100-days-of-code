@@ -1,15 +1,23 @@
 Start Date: June 11, 2024
-End Date: September 18, 2024
-Day 39: July 19, 2024
+End Date: 
+Day 39: July 31, 2024
 
 Today's Progress:
 
     1. Learning With Nature:
-        
+        The change_username() function in learning.js successfully passes user input to views.py. The change_password() function does not (JSONDecodeError occurred).
         
 Challenges:
 
     Learning With Nature: 
+
+        Error to diagnose:
+        JSONDecodeError at /update_profile
+        Expecting value: line 1 column 1 (char 0)
+        Exception Type: JSONDecodeError
+        Exception Value: Expecting value: line 1 column 1 (char 0)
+        Raised during: 	parks.views.update_profile 
+
         Some of the images from NPS are not loading. Error in console 'Image corrupt or truncated'.
         Messages should slowly fade away. (Virginia)  
 
