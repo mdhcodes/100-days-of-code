@@ -5,7 +5,7 @@ Day 40: July 20, 2024
 Today's Progress:
 
     1. Learning With Nature:
-        
+        Continue to research the error (JSONDecodeError) and refactor the update_profile() function in views.py.
         
 Challenges:
 
