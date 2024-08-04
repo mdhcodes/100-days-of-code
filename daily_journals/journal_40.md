@@ -1,12 +1,16 @@
 Start Date: June 11, 2024
-End Date: September 18, 2024
-Day 40: July 20, 2024
+End Date: 
+Day 40: August 4, 2024
 
 Today's Progress:
 
     1. Learning With Nature:
-        Continue to research the error (JSONDecodeError) and refactor the update_profile() function in views.py.
-        
+        Continue to research how to update a user's profile (username and password).
+        https://docs.djangoproject.com/en/5.0/topics/auth/default/#authenticating-users
+        https://stackoverflow.com/questions/71882177/how-to-update-user-password-in-django
+        https://stackoverflow.com/questions/1873806/how-to-allow-users-to-change-their-own-passwords-in-django
+        https://dev.to/earthcomfy/django-update-user-profile-33ho
+                
 Challenges:
 
     Learning With Nature: 
