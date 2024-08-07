@@ -1,11 +1,11 @@
 Start Date: June 11, 2024
-End Date: September 18, 2024
-Day 41: July 21, 2024
+End Date: 
+Day 41: August 6, 2024
 
 Today's Progress:
 
     1. Learning With Nature:
-        
+        Complete the update username and password functionality.
         
 Challenges:
 
@@ -35,3 +35,5 @@ Notes:
     Option for user to upload multiple images and documents.
 
     Nature Walk Website: Run program in the terminal via ... > node index.js
+
+    Views.py - request and requests (parks(request), park_learning(request), all_park_lessons(request), park_lessons(request))
