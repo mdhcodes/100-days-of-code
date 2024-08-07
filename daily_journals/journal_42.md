@@ -1,11 +1,11 @@
 Start Date: June 11, 2024
-End Date: September 18, 2024
-Day 42: July 22, 2024
+End Date: 
+Day 42: August 7, 2024
 
 Today's Progress:
 
     1. Learning With Nature:
-        
+        Refactor code and consider future development.
         
 Challenges:
 
@@ -35,3 +35,19 @@ Notes:
     Option for user to upload multiple images and documents.
 
     Nature Walk Website: Run program in the terminal via ... > node index.js
+
+    After saving a lesson, the success alert remains visible and the page does not change. 
+        Gradually fade away the success alert.
+        Change 'Save' button to saved. (Remove alert 'This lesson is already saved' and option to save again.)
+        Display newly saved lesson.
+
+    After a lesson is edited, the success alert remains visible.
+        Gradually fade away the success alert.
+
+    After update/reset username,        
+        Display an alert that confirms the username was updated.
+        Display ?
+
+    After update/reset password, user is automatically logged out when index.html is requested.       
+        Display an alert that confirms the password was updated.
+        Display ?
