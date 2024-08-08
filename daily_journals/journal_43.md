@@ -6,6 +6,18 @@ Today's Progress:
 
     1. Learning With Nature:
         Begin to implement the gradual fading of the success alert after a lesson is edited or when any success alert is visible.
+        Research CSS Transitions
+            https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property  
+            https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration  
+            https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function  
+            https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay  
+            https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions  
+            transition: <property> <duration> <timing-function> <delay>  
+
+        Research setTimeout and setInterval/clearInterval
+            https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+            https://developer.mozilla.org/en-US/docs/Web/API/setInterval#examples
+            https://developer.mozilla.org/en-US/docs/Web/API/clearInterval
         
 Challenges:
 
